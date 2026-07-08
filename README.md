@@ -211,7 +211,6 @@ Working on this project has given me hands on practice in:
 - Original Restaurant POS template developed by **Martin Mbithi Nzilani**, distributed via **CodeAstro**
 - Supplier management module and ongoing customizations by **Muhammad Taimoor**
 
----
 
 ## License
 
